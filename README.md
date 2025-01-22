@@ -18,4 +18,4 @@ Technologies Implemented:-
 - Static IP Address allocation to Host Devices.
 - Test and Verifying Network Communication.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="864" alt="Screenshot 2023-08-23 201804" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uhdpaper.com%2F&psig=AOvVaw0-d1g4AxQYYOo5G6RHOY53&ust=1737664716895000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID9ndOXiosDFQAAAAAdAAAAABAE">
+<img width="864" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uhdpaper.com%2F&psig=AOvVaw0-d1g4AxQYYOo5G6RHOY53&ust=1737664716895000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID9ndOXiosDFQAAAAAdAAAAABAE">
