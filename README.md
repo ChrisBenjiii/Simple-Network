@@ -18,4 +18,4 @@ Technologies Implemented:-
 - Static IP Address allocation to Host Devices.
 - Test and Verifying Network Communication.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![screenshot](imageFolder/screenshot.png)
+![screenshot](Image of Network.png)
